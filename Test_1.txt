@@ -1,0 +1,6 @@
+#Isto é um ficheiro de teste para testar/aprender o funcionamento do GITHUB
+
+Lista de compras:
+    ovos
+    leite
+    farinha
